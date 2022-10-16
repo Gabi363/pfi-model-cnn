@@ -6,6 +6,9 @@ def display_greetings(name: str) -> str:
 enfenfienfienfuienfuine
 """
 
+def featue_full():
+    pass
+
 
 if __name__ == '__main__':
     display_greetings('Gabi')
