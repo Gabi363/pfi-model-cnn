@@ -1,5 +1,5 @@
 # pfi-model-cnn
 Testowy projekt.
 
-![zdjęcie psa](//main/animals/dog.jpg)
+![zdjęcie psa](/repository/animals/dog.jpg)
 
